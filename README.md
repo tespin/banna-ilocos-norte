@@ -1,2 +1,2 @@
 # banna-ilocos-norte
-Scripts and assets for Unity3D project.
+Scripts for Unity3D project -- game programming in C# + interfacing with Arduino microcontroller.
