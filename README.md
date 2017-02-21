@@ -9,3 +9,6 @@ I used an Arduino to interface a force-resisting sensor with Unity. Pressure was
 
 ![alt text](https://github.com/tespin/banna-ilocos-norte/blob/master/img/banna_img_5_resized.jpg "Pressing sensor")
 ![alt text](https://github.com/tespin/banna-ilocos-norte/blob/master/img/banna_img_6_resized.jpg "Sensor")
+
+Video demonstration here: 
+https://vimeo.com/204986885
